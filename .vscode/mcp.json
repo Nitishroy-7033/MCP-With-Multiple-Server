@@ -1,0 +1,17 @@
+{
+	"servers": {
+		"school-mcp": {
+			"url": "http://localhost:8000/mcp/school/sse",
+			"type": "http"
+		},
+		"youtube-mcp": {
+			"url": "http://localhost:8000/mcp/youtube/sse",
+			"type": "http"
+		},
+		"all-mcp": {
+			"url": "http://localhost:8000/mcp/all/sse",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
